@@ -1,3 +1,9 @@
 streamlit
 openai
 pandas
+
+Good test questions:
+Which region has the highest revenue?
+Which SKUs are below forecast?
+Show revenue by customer type.
+Which region is underperforming forecast the most?
