@@ -31,3 +31,8 @@ This project demonstrates a lightweight LLM-powered analytics interface that tra
 
 ## Note
 This was built as a demo to explore how LLMs can augment analytics workflows.
+
+## Setup
+Create a local `.streamlit/secrets.toml` file:
+
+OPENAI_API_KEY = "your_key_here"
